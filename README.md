@@ -1,4 +1,4 @@
-# Formula1 Microsoft PowerBi Dashboard
+# Formula1 Microsoft Power BI Dashboard
 
 This project is a data visualization of Formula 1 data, created in Microsoft Power BI. The dataset is available on Kaggle and includes data on [Formula 1 races from 1950 to 2023](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020). As an F1 fan, I wanted to explore the rich history and exciting data around the sport and present it in an engaging and interactive way.
 
